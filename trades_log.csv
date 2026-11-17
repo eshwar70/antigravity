@@ -1,0 +1,2 @@
+Date,Mode,Symbol,Instrument_Key,Entry_Time,Exit_Time,Qty,Spot_Entry,Spot_Exit,Option_Buy,Option_Sell,Highest_LTP,Points_Captured,Gross_PnL,Charges,Net_PnL,Cumulative_Day_Net_PnL,Exit_Reason
+2026-11-10,P,NIFTY 17NOV 25050 CE,NSE_FO|25050CE,09:21:05,09:34:25,65,25092.00,25151.00,110.00,129.30,136.00,19.30,1254.50,55.00,1199.50,1199.50,TRAILING_SL
