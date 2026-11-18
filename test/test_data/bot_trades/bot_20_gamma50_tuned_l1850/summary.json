@@ -1,0 +1,33 @@
+{
+  "bot_id": "bot_20_gamma50_tuned_l1850",
+  "bot_name": "Convex Gamma-50 Tuned Lock Rs1850",
+  "initial_wallet": 50000.0,
+  "equity": 82058.79,
+  "cash": 82058.79,
+  "net_pnl": 32058.79,
+  "return_pct": 64.12,
+  "closed_trades": 80,
+  "wins": 51,
+  "losses": 29,
+  "win_rate_pct": 63.75,
+  "profit_factor": 1.74,
+  "max_drawdown": 11663.69,
+  "observed_days": 54,
+  "active_days": 47,
+  "daily_coverage_pct": 87.04,
+  "avg_trades_per_day": 1.481,
+  "capital_halted": false,
+  "slug": "gamma50_tuned_l1850",
+  "family": "Convex Gamma Breakout",
+  "description": "ATM 0.50 delta gamma convexity with Rs 1850 daily profit lock.",
+  "blocked": 0,
+  "elapsed_s": 0.19,
+  "monthly_pnl": {
+    "2026-09": -1711.69,
+    "2026-10": 19253.39,
+    "2026-11": 14517.09
+  },
+  "eligible": true,
+  "delta_vs_w51": 15170.25,
+  "file": "/Users/eshwarbk/.gemini/antigravity/worktrees/antigravity/trading_bot_competition/test/bots/bot_20_gamma50_tuned_l1850.py"
+}

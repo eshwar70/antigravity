@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_13_bb_keltner_lock_2300",
+  "bot_name": "Bollinger-Keltner Lock Rs2300",
+  "initial_wallet": 50000.0,
+  "equity": 96014.9,
+  "cash": 96014.9,
+  "net_pnl": 46014.9,
+  "return_pct": 92.03,
+  "closed_trades": 95,
+  "wins": 56,
+  "losses": 39,
+  "win_rate_pct": 58.95,
+  "profit_factor": 1.595,
+  "max_drawdown": 18077.6,
+  "observed_days": 54,
+  "active_days": 52,
+  "daily_coverage_pct": 96.3,
+  "avg_trades_per_day": 1.759,
+  "capital_halted": false
+}

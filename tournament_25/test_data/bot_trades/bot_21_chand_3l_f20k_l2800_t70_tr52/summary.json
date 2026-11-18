@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_21_chand_3l_f20k_l2800_t70_tr52",
+  "bot_name": "Rung 21 \u2014 Chandelier 3L F20k L2800 T70%",
+  "initial_wallet": 50000.0,
+  "equity": 139486.5,
+  "cash": 139486.5,
+  "net_pnl": 89486.5,
+  "return_pct": 178.97,
+  "closed_trades": 96,
+  "wins": 63,
+  "losses": 33,
+  "win_rate_pct": 65.62,
+  "profit_factor": 2.031,
+  "max_drawdown": 19316.67,
+  "observed_days": 54,
+  "active_days": 51,
+  "daily_coverage_pct": 94.44,
+  "avg_trades_per_day": 1.778,
+  "capital_halted": false
+}

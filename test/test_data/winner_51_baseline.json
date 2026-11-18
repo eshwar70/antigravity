@@ -1,0 +1,518 @@
+{
+  "bot_id": "winner_51",
+  "bot_name": "Winner of 51 (A19 [g] \u2014 Chennai_WideRunner_32 [g])",
+  "window": [
+    "2026-09-01",
+    "2026-11-18"
+  ],
+  "sessions": 54,
+  "initial_wallet": 50000.0,
+  "equity": 66888.54,
+  "cash": 66888.54,
+  "net_pnl": 16888.54,
+  "return_pct": 33.78,
+  "closed_trades": 93,
+  "wins": 50,
+  "losses": 43,
+  "win_rate_pct": 53.76,
+  "profit_factor": 1.26,
+  "max_drawdown": 17636.06,
+  "observed_days": 54,
+  "active_days": 53,
+  "daily_coverage_pct": 98.15,
+  "avg_trades_per_day": 1.722,
+  "accepted_snapshots": 39776,
+  "blocked_snapshots": 6,
+  "block_reasons": {
+    "Open position lacks executable bid depth": 6
+  },
+  "elapsed_seconds": 165.91,
+  "daily_rows": [
+    {
+      "date": "2026-09-01",
+      "start_equity": 50000.0,
+      "end_equity": 52283.67,
+      "net_pnl": 2283.67,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-09-02",
+      "start_equity": 52283.67,
+      "end_equity": 52671.07,
+      "net_pnl": 387.4,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-09-03",
+      "start_equity": 52671.07,
+      "end_equity": 51677.05,
+      "net_pnl": -994.02,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-04",
+      "start_equity": 51677.05,
+      "end_equity": 51871.84,
+      "net_pnl": 194.78,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-09-07",
+      "start_equity": 51871.84,
+      "end_equity": 50777.01,
+      "net_pnl": -1094.83,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-08",
+      "start_equity": 50777.01,
+      "end_equity": 49717.64,
+      "net_pnl": -1059.36,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-09",
+      "start_equity": 49717.64,
+      "end_equity": 48679.23,
+      "net_pnl": -1038.41,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-10",
+      "start_equity": 48679.23,
+      "end_equity": 48809.0,
+      "net_pnl": 129.77,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-09-11",
+      "start_equity": 48809.0,
+      "end_equity": 48290.01,
+      "net_pnl": -518.99,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-15",
+      "start_equity": 48290.01,
+      "end_equity": 49259.45,
+      "net_pnl": 969.44,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-09-16",
+      "start_equity": 49259.45,
+      "end_equity": 47924.28,
+      "net_pnl": -1335.17,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-17",
+      "start_equity": 47924.28,
+      "end_equity": 49583.76,
+      "net_pnl": 1659.48,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-09-18",
+      "start_equity": 49583.76,
+      "end_equity": 48810.95,
+      "net_pnl": -772.81,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-21",
+      "start_equity": 48810.95,
+      "end_equity": 47892.37,
+      "net_pnl": -918.58,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-22",
+      "start_equity": 47892.37,
+      "end_equity": 48782.62,
+      "net_pnl": 890.25,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-09-23",
+      "start_equity": 48782.62,
+      "end_equity": 49426.21,
+      "net_pnl": 643.6,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-09-24",
+      "start_equity": 49426.21,
+      "end_equity": 49738.67,
+      "net_pnl": 312.46,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-09-25",
+      "start_equity": 49738.67,
+      "end_equity": 49292.06,
+      "net_pnl": -446.61,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-28",
+      "start_equity": 49292.06,
+      "end_equity": 48276.28,
+      "net_pnl": -1015.78,
+      "closed_trades": 2,
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "date": "2026-09-29",
+      "start_equity": 48276.28,
+      "end_equity": 48241.82,
+      "net_pnl": -34.46,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-09-30",
+      "start_equity": 48241.82,
+      "end_equity": 47372.84,
+      "net_pnl": -868.98,
+      "closed_trades": 1,
+      "wins": 0,
+      "losses": 1
+    },
+    {
+      "date": "2026-10-01",
+      "start_equity": 47372.84,
+      "end_equity": 53507.15,
+      "net_pnl": 6134.31,
+      "closed_trades": 2,
+      "wins": 2,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-05",
+      "start_equity": 53507.15,
+      "end_equity": 55162.86,
+      "net_pnl": 1655.71,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-06",
+      "start_equity": 55162.86,
+      "end_equity": 56881.97,
+      "net_pnl": 1719.12,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-07",
+      "start_equity": 56881.97,
+      "end_equity": 56217.91,
+      "net_pnl": -664.06,
+      "closed_trades": 3,
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "date": "2026-10-08",
+      "start_equity": 56217.91,
+      "end_equity": 55254.15,
+      "net_pnl": -963.76,
+      "closed_trades": 4,
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "date": "2026-10-09",
+      "start_equity": 55254.15,
+      "end_equity": 58097.87,
+      "net_pnl": 2843.72,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-12",
+      "start_equity": 58097.87,
+      "end_equity": 61113.66,
+      "net_pnl": 3015.79,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-13",
+      "start_equity": 61113.66,
+      "end_equity": 64946.88,
+      "net_pnl": 3833.21,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-14",
+      "start_equity": 64946.88,
+      "end_equity": 60421.6,
+      "net_pnl": -4525.27,
+      "closed_trades": 2,
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "date": "2026-10-15",
+      "start_equity": 60421.6,
+      "end_equity": 63127.87,
+      "net_pnl": 2706.27,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-16",
+      "start_equity": 63127.87,
+      "end_equity": 60192.93,
+      "net_pnl": -2934.94,
+      "closed_trades": 2,
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "date": "2026-10-19",
+      "start_equity": 60192.93,
+      "end_equity": 63609.16,
+      "net_pnl": 3416.22,
+      "closed_trades": 2,
+      "wins": 2,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-21",
+      "start_equity": 63609.16,
+      "end_equity": 69281.7,
+      "net_pnl": 5672.54,
+      "closed_trades": 2,
+      "wins": 2,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-22",
+      "start_equity": 69281.7,
+      "end_equity": 63975.46,
+      "net_pnl": -5306.23,
+      "closed_trades": 3,
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "date": "2026-10-23",
+      "start_equity": 63975.46,
+      "end_equity": 61060.11,
+      "net_pnl": -2915.36,
+      "closed_trades": 4,
+      "wins": 1,
+      "losses": 3
+    },
+    {
+      "date": "2026-10-26",
+      "start_equity": 61060.11,
+      "end_equity": 59134.89,
+      "net_pnl": -1925.22,
+      "closed_trades": 2,
+      "wins": 1,
+      "losses": 1
+    },
+    {
+      "date": "2026-10-27",
+      "start_equity": 59134.89,
+      "end_equity": 54593.72,
+      "net_pnl": -4541.17,
+      "closed_trades": 2,
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "date": "2026-10-28",
+      "start_equity": 54593.72,
+      "end_equity": 60835.27,
+      "net_pnl": 6241.55,
+      "closed_trades": 4,
+      "wins": 3,
+      "losses": 1
+    },
+    {
+      "date": "2026-10-29",
+      "start_equity": 60835.27,
+      "end_equity": 69105.03,
+      "net_pnl": 8269.77,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-10-30",
+      "start_equity": 69105.03,
+      "end_equity": 67033.95,
+      "net_pnl": -2071.09,
+      "closed_trades": 4,
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "date": "2026-11-02",
+      "start_equity": 67033.95,
+      "end_equity": 69194.1,
+      "net_pnl": 2160.15,
+      "closed_trades": 3,
+      "wins": 3,
+      "losses": 0
+    },
+    {
+      "date": "2026-11-03",
+      "start_equity": 69194.1,
+      "end_equity": 72627.18,
+      "net_pnl": 3433.08,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-11-04",
+      "start_equity": 72627.18,
+      "end_equity": 68059.62,
+      "net_pnl": -4567.56,
+      "closed_trades": 4,
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "date": "2026-11-05",
+      "start_equity": 68059.62,
+      "end_equity": 72580.72,
+      "net_pnl": 4521.1,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-11-06",
+      "start_equity": 72580.72,
+      "end_equity": 70350.39,
+      "net_pnl": -2230.34,
+      "closed_trades": 2,
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "date": "2026-11-08",
+      "start_equity": 70350.39,
+      "end_equity": 70350.39,
+      "net_pnl": 0.0,
+      "closed_trades": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "date": "2026-11-09",
+      "start_equity": 70350.39,
+      "end_equity": 67998.9,
+      "net_pnl": -2351.49,
+      "closed_trades": 2,
+      "wins": 1,
+      "losses": 1
+    },
+    {
+      "date": "2026-11-11",
+      "start_equity": 67998.9,
+      "end_equity": 65293.17,
+      "net_pnl": -2705.73,
+      "closed_trades": 3,
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "date": "2026-11-12",
+      "start_equity": 65293.17,
+      "end_equity": 62376.71,
+      "net_pnl": -2916.45,
+      "closed_trades": 4,
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "date": "2026-11-13",
+      "start_equity": 62376.71,
+      "end_equity": 62924.85,
+      "net_pnl": 548.13,
+      "closed_trades": 2,
+      "wins": 1,
+      "losses": 1
+    },
+    {
+      "date": "2026-11-16",
+      "start_equity": 62924.85,
+      "end_equity": 65147.16,
+      "net_pnl": 2222.31,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-11-17",
+      "start_equity": 65147.16,
+      "end_equity": 67846.74,
+      "net_pnl": 2699.59,
+      "closed_trades": 1,
+      "wins": 1,
+      "losses": 0
+    },
+    {
+      "date": "2026-11-18",
+      "start_equity": 67846.74,
+      "end_equity": 66888.54,
+      "net_pnl": -958.2,
+      "closed_trades": 4,
+      "wins": 3,
+      "losses": 1
+    }
+  ]
+}

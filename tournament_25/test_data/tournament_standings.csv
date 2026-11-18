@@ -1,0 +1,30 @@
+rank,bot_id,bot_name,family,matches_played,wins,draws,losses,points,win_rate_tourney,sub_points_for,sub_points_against,net_pnl,return_pct,profit_factor,max_drawdown,calmar,sharpe,trades,win_rate
+1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,Chandelier Compounding 4L,28,28,0,0,84,100.0,163.5,4.5,103813.88,207.63,2.238,19395.31,5.353,5.177,93,66.67
+2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,Chandelier Compounding 4L,28,27,0,1,81,96.4,156.5,11.5,100199.97,200.4,2.195,19395.31,5.166,5.084,93,66.67
+3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,Chandelier Compounding 4L,28,26,0,2,78,92.9,148.0,20.0,96649.94,193.3,2.165,19613.28,4.928,4.926,92,65.22
+4,bot_22_chand_3l_f20k_l2675_t70_tr55,Rung 22 — chand_3l_f20k_l2675_t70_tr55,Chandelier Compounding 3L,28,24,0,4,72,85.7,140.0,28.0,92736.72,185.47,2.119,19534.64,4.747,4.922,95,66.32
+5,bot_20_chand_3l_f20k_l2800_t70_tr55,Rung 20 — Chandelier 3L F20k L2800 T70%,Chandelier Compounding 3L,28,23,0,5,69,82.1,129.0,39.0,85763.53,171.53,2.014,22658.08,3.785,4.699,96,65.62
+6,bot_21_chand_3l_f20k_l2800_t70_tr52,Rung 21 — Chandelier 3L F20k L2800 T70%,Chandelier Compounding 3L,28,22,1,5,67,78.6,132.0,36.0,89486.5,178.97,2.031,19316.67,4.633,4.83,96,65.62
+7,bot_19_chand_4l_f18k_l2200_t65_tr55,Rung 19 — Chandelier 4L F18k L2200 T65%,Chandelier Compounding 4L,28,22,1,5,67,78.6,130.0,38.0,80675.7,161.35,2.147,16804.51,4.801,5.148,91,67.03
+8,top_01_chandelier_run_t50_l2200,Chandelier Run T50 L2200 (Previous #1 Champion),Previous Top 3 Champion,28,20,0,8,60,71.4,121.5,46.5,66851.51,133.7,2.179,14439.32,4.63,5.575,95,66.32
+9,bot_13_chand_2l_l1400_t40,Rung 13 — Chandelier 2L L1400 T40%,Chandelier Target Scaler,28,19,2,7,59,67.9,120.0,48.0,61291.53,122.58,2.247,12421.24,4.934,6.106,87,68.97
+10,top_02_chandelier_run_t48_l2200,Chandelier Run T48 L2200 (Previous #2 Runner-Up),Previous Top 3 Champion,28,19,1,8,58,67.9,116.5,51.5,65560.6,131.12,2.156,14439.32,4.54,5.66,95,66.32
+11,bot_18_chand_3l_f20k_l3000_t55_tr55,Rung 18 — Chandelier 3L F20k L3000 T55%,Chandelier Compounding 3L,28,18,3,7,57,64.3,105.5,62.5,77443.68,154.89,1.964,20614.18,3.757,4.62,96,65.62
+12,top_03_chandelier_run_t46_l2200,Chandelier Run T46 L2200 (Previous #3 Bronze),Previous Top 3 Champion,28,17,2,9,53,60.7,108.0,60.0,65083.15,130.17,2.147,14439.32,4.507,5.652,95,66.32
+13,bot_14_chand_2l_l2000_t38,Rung 14 — Chandelier 2L L2000 T38%,Chandelier Target Scaler,28,16,0,12,48,57.1,99.5,68.5,64314.88,128.63,2.119,14439.32,4.454,5.564,93,65.59
+14,bot_17_chand_4l_f18k_l3000_t85_tr55,Rung 17 — Chandelier 4L F18k L3000 T85%,Chandelier Compounding 4L,28,15,0,13,45,53.6,95.5,72.5,74442.42,148.88,1.848,20093.54,3.705,4.496,97,64.95
+15,bot_12_chand_2l_l2800_t48,Rung 12 — Chandelier 2L L2800 T48%,Chandelier Target Scaler,28,14,0,14,42,50.0,80.0,88.0,58236.36,116.47,1.847,16609.21,3.506,5.142,103,64.08
+16,bot_16_chand_4l_f18k_l3200_t85_tr50,Rung 16 — Chandelier 4L F18k L3200 T85%,Chandelier Compounding 4L,28,12,0,16,36,42.9,81.5,86.5,70388.53,140.78,1.797,20093.54,3.503,4.377,98,64.29
+17,bot_15_chand_4l_f18k_l3500_t65_tr50,Rung 15 — Chandelier 4L F18k L3500 T65%,Chandelier Compounding 4L,28,11,1,16,34,39.3,80.5,87.5,67348.75,134.7,1.691,20093.54,3.352,4.275,99,63.64
+18,bot_11_chand_2l_l2800_t42,Rung 11 — Chandelier 2L L2800 T42%,Chandelier Target Scaler,28,11,0,17,33,39.3,62.5,105.5,55023.24,110.05,1.761,16609.21,3.313,4.924,103,63.11
+19,bot_10_chand_2l_l2800_t32,Rung 10 — Chandelier 2L L2800 T32%,Chandelier Target Scaler,28,10,1,17,31,35.7,70.5,97.5,51229.29,102.46,1.778,12421.24,4.124,4.917,102,63.73
+20,bot_09_chand_2l_l2600_t28,Rung 09 — Chandelier 2L L2600 T28%,Chandelier Target Scaler,28,10,0,18,30,35.7,65.5,102.5,48001.77,96.0,1.84,12421.24,3.864,5.077,96,65.62
+21,bot_06_chand_2l_l1400_t30,Rung 06 — Chandelier 2L L1400 T30%,Chandelier Target Scaler,28,7,1,20,22,25.0,48.5,119.5,37301.61,74.6,1.767,12076.19,3.089,4.675,89,66.29
+22,bot_07_chand_2l_l2800_t28,Rung 07 — Chandelier 2L L2800 T28%,Chandelier Target Scaler,28,7,1,20,22,25.0,43.5,124.5,41526.67,83.05,1.653,12421.24,3.343,4.654,98,64.29
+23,bot_08_bb_keltner_lock_2400,Rung 08 — Bollinger-Keltner Lock Rs2400,Volatility Squeeze Breakout,28,6,0,22,18,21.4,34.5,133.5,44857.11,89.71,1.569,18077.6,2.481,3.962,98,59.18
+24,bot_05_tight_l2300_t32,Rung 05 — Tight-Stop L2300 T32%,Tight-Stop Asymmetric R:R,28,5,0,23,15,17.9,28.0,140.0,33891.51,67.78,1.559,20203.85,1.677,3.435,98,54.08
+25,bot_04_w51_l2000_t30,Rung 04 — WideRunner Boost L2000 T30%,Asymmetric WideRunner,28,4,0,24,12,14.3,27.5,140.5,29783.57,59.57,1.384,20176.77,1.476,3.134,96,53.12
+26,bot_03_chand_2l_l1800_t32,Rung 03 — Chandelier 2L L1800 T32%,Chandelier Target Scaler,28,3,0,25,9,10.7,22.5,145.5,26583.24,53.17,1.501,12785.57,2.079,3.704,92,63.04
+27,bot_02_w51_l1550_t32,Rung 02 — WideRunner Boost L1550 T32%,Asymmetric WideRunner,28,2,0,26,6,7.1,15.0,153.0,23532.37,47.06,1.324,20176.77,1.166,2.649,96,54.17
+28,bot_01_kaufman_flow_e32_l1950,Rung 01 — Kaufman Flow E32 Lock Rs1950,Efficiency Ratio Filter,28,1,0,27,3,3.6,8.0,160.0,20424.42,40.85,1.418,13153.05,1.553,2.913,83,61.45
+29,member_29_winner_51,Winner of 51 (A19 [g] — Chennai_WideRunner_32 [g]),Baseline Champion (A19),28,0,0,28,0,0.0,2.5,165.5,16888.54,33.78,1.26,17636.06,0.958,2.169,93,53.76

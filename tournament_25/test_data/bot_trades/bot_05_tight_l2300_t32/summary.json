@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_05_tight_l2300_t32",
+  "bot_name": "Rung 05 \u2014 Tight-Stop L2300 T32%",
+  "initial_wallet": 50000.0,
+  "equity": 83891.51,
+  "cash": 83891.51,
+  "net_pnl": 33891.51,
+  "return_pct": 67.78,
+  "closed_trades": 98,
+  "wins": 53,
+  "losses": 45,
+  "win_rate_pct": 54.08,
+  "profit_factor": 1.559,
+  "max_drawdown": 20203.85,
+  "observed_days": 54,
+  "active_days": 52,
+  "daily_coverage_pct": 96.3,
+  "avg_trades_per_day": 1.815,
+  "capital_halted": false
+}

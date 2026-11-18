@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_03_chand_2l_l1800_t32",
+  "bot_name": "Rung 03 \u2014 Chandelier 2L L1800 T32%",
+  "initial_wallet": 50000.0,
+  "equity": 76583.24,
+  "cash": 76583.24,
+  "net_pnl": 26583.24,
+  "return_pct": 53.17,
+  "closed_trades": 92,
+  "wins": 58,
+  "losses": 34,
+  "win_rate_pct": 63.04,
+  "profit_factor": 1.501,
+  "max_drawdown": 12785.57,
+  "observed_days": 54,
+  "active_days": 51,
+  "daily_coverage_pct": 94.44,
+  "avg_trades_per_day": 1.704,
+  "capital_halted": false
+}
