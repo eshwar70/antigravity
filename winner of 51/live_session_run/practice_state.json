@@ -1,0 +1,117 @@
+{
+  "config_hash": "915ba8e276dc942d1243c9c7576066ffaffe14b63c983a9ed91b2e9179f91f89",
+  "initial_wallet": 50000.0,
+  "cash": 46718.7345,
+  "position": null,
+  "day": "2026-11-18",
+  "day_start": 50000.0,
+  "trades_today": 3,
+  "loss_streak": 1,
+  "last_bar": "2026-11-18T15:28:00+05:30",
+  "last_snapshot": "2026-11-18T15:29:59.672445+05:30",
+  "pending": null,
+  "trades": [
+    {
+      "key": "NSE_FO|64459",
+      "entered": "2026-11-18T09:44:39.337813+05:30",
+      "exited": "2026-11-18T09:53:06.582481+05:30",
+      "quantity": 65,
+      "entry": 248.3958,
+      "exit": 222.3544,
+      "net_pnl": -1772.69,
+      "charges": 80.0,
+      "reason": "STOP"
+    },
+    {
+      "key": "NSE_FO|64459",
+      "entered": "2026-11-18T10:16:30.710928+05:30",
+      "exited": "2026-11-18T10:25:31.205519+05:30",
+      "quantity": 65,
+      "entry": 220.7907,
+      "exit": 226.0969,
+      "net_pnl": 264.9,
+      "charges": 80.0,
+      "reason": "BREAKEVEN_STOP"
+    },
+    {
+      "key": "NSE_FO|64459",
+      "entered": "2026-11-18T11:00:34.583757+05:30",
+      "exited": "2026-11-18T11:19:41.974767+05:30",
+      "quantity": 65,
+      "entry": 238.9269,
+      "exit": 212.8734,
+      "net_pnl": -1773.48,
+      "charges": 80.0,
+      "reason": "STOP"
+    }
+  ],
+  "peak_equity": 50796.16099999999,
+  "max_drawdown": 4077.426499999994,
+  "equity": 46718.7345,
+  "daily": {
+    "2026-11-18": {
+      "date": "2026-11-18",
+      "start_equity": 50000.0,
+      "end_equity": 46718.7345,
+      "snapshots": 7391,
+      "first_snapshot": "2026-11-18T09:44:36.695414+05:30",
+      "last_snapshot": "2026-11-18T15:29:59.672445+05:30",
+      "max_gap_seconds": 15.220866
+    }
+  },
+  "capital_halted": false,
+  "cooldown_until": "2026-11-18T11:24:41.974767+05:30",
+  "last_loss_direction": -1,
+  "direction_cooldown_until": "2026-11-18T11:34:41.974767+05:30",
+  "dataset_source": "upstox-fast-1m-v02",
+  "last_decision": {
+    "direction": 0,
+    "proposed_direction": 1,
+    "setup_type": "1M_MOMENTUM",
+    "regime": "mtf_5m_1m_tick",
+    "features": {
+      "spot_live": 25227.95,
+      "bar_close_1m": 25227.95,
+      "ema9": 25221.78,
+      "ema21": 25220.48,
+      "ema9_5m": 25221.76,
+      "ema21_5m": 25219.45,
+      "trend_eff_5m": 0.327,
+      "ema_sep_atr_5m": 0.122,
+      "rsi_1m": 94.34,
+      "roc_3m_pct": 0.0297,
+      "tick_delta_pts": 0.0,
+      "tick_samples": 15,
+      "live_breakout_5m": 0
+    },
+    "signals": {
+      "ema_trend_1m": 1,
+      "macd_1m": 1,
+      "roc_3m": 0,
+      "donchian_10m": 1,
+      "ema_pullback_1m": 0,
+      "rsi_1m": 0
+    },
+    "confirmations": {
+      "bars_1m": 1,
+      "bars_5m": 0,
+      "ticks_s": 0,
+      "breadth": 1,
+      "options_positioning": -1
+    },
+    "evidence_details": {
+      "mtf_5m": "trend5=0, eff5=0.327, esep5=0.122 (35x5m)",
+      "breadth": "50/50 fresh vs_open; adv=36.0%, dec=64.0%; delta(24m) adv=58.0%, dec=42.0%",
+      "options_positioning": "Near-ATM PCR=0.816 (20 strikes)",
+      "tick_window": "delta=+0.00pts over 15 ticks"
+    },
+    "vetoes": [
+      "MTF_5M_TREND_MISALIGNED",
+      "LOW_5M_EMA_SEPARATION",
+      "RSI_OVERBOUGHT"
+    ],
+    "status": "PRACTICE_FAST_SCALP_NOT_PROFIT_PROVEN"
+  },
+  "gap_warnings": 0,
+  "sample_last_time": "2026-11-18T15:29:59.672445+05:30"
+}
