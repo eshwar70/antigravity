@@ -1,0 +1,325 @@
+competition,rank,bot_id,bot_name,date,start_equity,end_equity,daily_net_pnl,cumulative_pnl,cumulative_return_pct,closed_trades,wins,losses,win_rate_pct
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-01,50000.0,52227.84,2227.84,2227.84,4.46,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-02,52227.84,52412.69,184.85,2412.69,4.83,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-03,52412.69,52017.72,-394.97,2017.72,4.04,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-04,52017.72,52212.51,194.78,2212.5,4.42,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-07,52212.51,51236.23,-976.27,1236.23,2.47,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-08,51236.23,50245.15,-991.08,245.15,0.49,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-09,50245.15,51855.87,1610.72,1855.87,3.71,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-10,51855.87,51985.65,129.77,1985.64,3.97,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-11,51985.65,51092.23,-893.42,1092.22,2.18,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-15,51092.23,52114.02,1021.79,2114.01,4.23,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-16,52114.02,51195.9,-918.12,1195.89,2.39,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-17,51195.9,52855.38,1659.48,2855.37,5.71,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-18,52855.38,52855.38,0.0,2855.37,5.71,0,0,0,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-21,52855.38,52925.74,70.36,2925.73,5.85,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-22,52925.74,53757.37,831.63,3757.36,7.51,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-23,53757.37,53410.05,-347.32,3410.04,6.82,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-24,53410.05,53473.71,63.66,3473.7,6.95,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-25,53473.71,53573.18,99.47,3573.17,7.15,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-28,53573.18,53776.33,203.15,3776.32,7.55,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-29,53776.33,53002.66,-773.67,3002.65,6.01,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-09-30,53002.66,51758.16,-1244.5,1758.15,3.52,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-01,51758.16,58825.17,7067.01,8825.16,17.65,2,2,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-05,58825.17,59117.14,291.96,9117.12,18.23,2,2,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-06,59117.14,60101.96,984.82,10101.94,20.2,3,2,1,66.7
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-07,60101.96,57980.97,-2120.98,7980.96,15.96,3,1,2,33.3
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-08,57980.97,57906.86,-74.11,7906.85,15.81,4,2,2,50.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-09,57906.86,65197.46,7290.6,15197.45,30.39,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-12,65197.46,68213.26,3015.79,18213.24,36.43,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-13,68213.26,72046.47,3833.21,22046.45,44.09,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-14,72046.47,67521.19,-4525.27,17521.18,35.04,2,0,2,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-15,67521.19,82182.01,14660.82,32182.0,64.36,2,2,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-16,82182.01,82182.01,0.0,32182.0,64.36,0,0,0,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-19,82182.01,83990.25,1808.24,33990.24,67.98,3,3,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-21,83990.25,89205.95,5215.71,39205.95,78.41,2,2,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-22,89205.95,85665.75,-3540.2,35665.75,71.33,3,1,2,33.3
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-23,85665.75,85560.81,-104.95,35560.8,71.12,3,1,2,33.3
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-26,85560.81,86219.37,658.57,36219.37,72.44,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-27,86219.37,81550.9,-4668.47,31550.9,63.1,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-28,81550.9,90242.26,8691.35,40242.25,80.48,3,2,1,66.7
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-29,90242.26,93161.53,2919.27,43161.52,86.32,4,2,2,50.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-10-30,93161.53,96683.22,3521.69,46683.21,93.37,4,4,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-02,96683.22,101758.92,5075.71,51758.92,103.52,3,3,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-03,101758.92,97470.17,-4288.76,47470.16,94.94,3,1,2,33.3
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-04,97470.17,97430.28,-39.88,47430.28,94.86,3,2,1,66.7
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-05,97430.28,101951.38,4521.1,51951.38,103.9,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-06,101951.38,103731.53,1780.14,53731.52,107.46,3,2,1,66.7
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-08,103731.53,103731.53,0.0,53731.52,107.46,0,0,0,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-09,103731.53,100841.12,-2890.41,50841.11,101.68,1,0,1,0.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-11,100841.12,108783.1,7941.98,58783.09,117.57,4,3,1,75.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-12,108783.1,107129.78,-1653.31,57129.78,114.26,3,2,1,66.7
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-13,107129.78,108967.53,1837.74,58967.52,117.94,2,1,1,50.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-16,108967.53,113983.22,5015.69,63983.21,127.97,1,1,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-17,113983.22,119011.93,5028.71,69011.92,138.02,2,2,0,100.0
+Preliminary (21 Traders),1,bot_01_chandelier_run_t50_l2200,Chandelier Runner Tgt50% Lock Rs2200,2026-11-18,119011.93,116851.51,-2160.42,66851.5,133.7,4,3,1,75.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-01,50000.0,52227.84,2227.84,2227.84,4.46,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-02,52227.84,52412.69,184.85,2412.69,4.83,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-03,52412.69,52017.72,-394.97,2017.72,4.04,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-04,52017.72,52212.51,194.78,2212.5,4.42,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-07,52212.51,51236.23,-976.27,1236.23,2.47,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-08,51236.23,50245.15,-991.08,245.15,0.49,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-09,50245.15,51855.87,1610.72,1855.87,3.71,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-10,51855.87,51985.65,129.77,1985.64,3.97,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-11,51985.65,51092.23,-893.42,1092.22,2.18,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-15,51092.23,52114.02,1021.79,2114.01,4.23,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-16,52114.02,51195.9,-918.12,1195.89,2.39,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-17,51195.9,52855.38,1659.48,2855.37,5.71,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-18,52855.38,52855.38,0.0,2855.37,5.71,0,0,0,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-21,52855.38,52925.74,70.36,2925.73,5.85,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-22,52925.74,53757.37,831.63,3757.36,7.51,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-23,53757.37,53410.05,-347.32,3410.04,6.82,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-24,53410.05,53473.71,63.66,3473.7,6.95,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-25,53473.71,53573.18,99.47,3573.17,7.15,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-28,53573.18,53776.33,203.15,3776.32,7.55,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-29,53776.33,53002.66,-773.67,3002.65,6.01,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-09-30,53002.66,51758.16,-1244.5,1758.15,3.52,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-01,51758.16,58825.17,7067.01,8825.16,17.65,2,2,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-05,58825.17,59117.14,291.96,9117.12,18.23,2,2,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-06,59117.14,60101.96,984.82,10101.94,20.2,3,2,1,66.7
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-07,60101.96,57980.97,-2120.98,7980.96,15.96,3,1,2,33.3
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-08,57980.97,57906.86,-74.11,7906.85,15.81,4,2,2,50.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-09,57906.86,63674.31,5767.45,13674.3,27.35,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-12,63674.31,66690.11,3015.79,16690.09,33.38,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-13,66690.11,70523.32,3833.21,20523.3,41.05,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-14,70523.32,65998.05,-4525.27,15998.03,32.0,2,0,2,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-15,65998.05,79452.28,13454.24,29452.27,58.9,2,2,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-16,79452.28,79452.28,0.0,29452.27,58.9,0,0,0,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-19,79452.28,81260.52,1808.24,31260.51,62.52,3,3,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-21,81260.52,86476.23,5215.71,36476.22,72.95,2,2,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-22,86476.23,82936.02,-3540.2,32936.02,65.87,3,1,2,33.3
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-23,82936.02,82831.08,-104.95,32831.07,65.66,3,1,2,33.3
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-26,82831.08,83489.64,658.57,33489.64,66.98,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-27,83489.64,78821.17,-4668.47,28821.17,57.64,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-28,78821.17,87512.53,8691.35,37512.52,75.03,3,2,1,66.7
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-29,87512.53,90431.8,2919.27,40431.79,80.86,4,2,2,50.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-10-30,90431.8,94966.76,4534.96,44966.75,89.93,4,4,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-02,94966.76,100042.46,5075.71,50042.46,100.08,3,3,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-03,100042.46,95753.71,-4288.76,45753.7,91.51,3,1,2,33.3
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-04,95753.71,95713.82,-39.88,45713.82,91.43,3,2,1,66.7
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-05,95713.82,100234.92,4521.1,50234.92,100.47,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-06,100234.92,102015.07,1780.14,52015.06,104.03,3,2,1,66.7
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-08,102015.07,102015.07,0.0,52015.06,104.03,0,0,0,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-09,102015.07,99124.66,-2890.41,49124.65,98.25,1,0,1,0.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-11,99124.66,107066.64,7941.98,57066.63,114.13,4,3,1,75.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-12,107066.64,105838.87,-1227.76,55838.87,111.68,3,2,1,66.7
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-13,105838.87,107676.61,1837.74,57676.61,115.35,2,1,1,50.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-16,107676.61,112692.31,5015.69,62692.3,125.38,1,1,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-17,112692.31,117721.02,5028.71,67721.01,135.44,2,2,0,100.0
+Preliminary (21 Traders),2,bot_02_chandelier_run_t48_l2200,Chandelier Runner Tgt48% Lock Rs2200,2026-11-18,117721.02,115560.6,-2160.42,65560.59,131.12,4,3,1,75.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-01,50000.0,52227.84,2227.84,2227.84,4.46,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-02,52227.84,52412.69,184.85,2412.69,4.83,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-03,52412.69,52017.72,-394.97,2017.72,4.04,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-04,52017.72,52212.51,194.78,2212.5,4.42,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-07,52212.51,51236.23,-976.27,1236.23,2.47,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-08,51236.23,50245.15,-991.08,245.15,0.49,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-09,50245.15,51855.87,1610.72,1855.87,3.71,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-10,51855.87,51985.65,129.77,1985.64,3.97,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-11,51985.65,51092.23,-893.42,1092.22,2.18,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-15,51092.23,52114.02,1021.79,2114.01,4.23,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-16,52114.02,51195.9,-918.12,1195.89,2.39,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-17,51195.9,52855.38,1659.48,2855.37,5.71,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-18,52855.38,52855.38,0.0,2855.37,5.71,0,0,0,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-21,52855.38,52925.74,70.36,2925.73,5.85,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-22,52925.74,53757.37,831.63,3757.36,7.51,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-23,53757.37,53410.05,-347.32,3410.04,6.82,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-24,53410.05,53473.71,63.66,3473.7,6.95,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-25,53473.71,53573.18,99.47,3573.17,7.15,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-28,53573.18,53776.33,203.15,3776.32,7.55,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-29,53776.33,53002.66,-773.67,3002.65,6.01,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-09-30,53002.66,51758.16,-1244.5,1758.15,3.52,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-01,51758.16,58347.73,6589.57,8347.72,16.7,2,2,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-05,58347.73,58639.69,291.96,8639.68,17.28,2,2,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-06,58639.69,59624.51,984.82,9624.5,19.25,3,2,1,66.7
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-07,59624.51,57503.53,-2120.98,7503.52,15.01,3,1,2,33.3
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-08,57503.53,57429.42,-74.11,7429.41,14.86,4,2,2,50.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-09,57429.42,63196.87,5767.45,13196.86,26.39,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-12,63196.87,66212.66,3015.79,16212.65,32.43,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-13,66212.66,70045.88,3833.21,20045.86,40.09,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-14,70045.88,65520.6,-4525.27,15520.59,31.04,2,0,2,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-15,65520.6,78974.84,13454.24,28974.83,57.95,2,2,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-16,78974.84,78974.84,0.0,28974.83,57.95,0,0,0,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-19,78974.84,80783.08,1808.24,30783.07,61.57,3,3,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-21,80783.08,85998.78,5215.71,35998.78,72.0,2,2,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-22,85998.78,82458.58,-3540.2,32458.58,64.92,3,1,2,33.3
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-23,82458.58,82353.63,-104.95,32353.63,64.71,3,1,2,33.3
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-26,82353.63,83012.2,658.57,33012.2,66.02,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-27,83012.2,78343.73,-4668.47,28343.73,56.69,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-28,78343.73,87035.08,8691.35,37035.08,74.07,3,2,1,66.7
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-29,87035.08,89954.35,2919.27,39954.35,79.91,4,2,2,50.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-10-30,89954.35,94489.32,4534.96,44489.31,88.98,4,4,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-02,94489.32,99565.02,5075.71,49565.02,99.13,3,3,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-03,99565.02,95276.26,-4288.76,45276.26,90.55,3,1,2,33.3
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-04,95276.26,95236.38,-39.88,45236.38,90.47,3,2,1,66.7
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-05,95236.38,99757.48,4521.1,49757.48,99.51,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-06,99757.48,101537.62,1780.14,51537.62,103.08,3,2,1,66.7
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-08,101537.62,101537.62,0.0,51537.62,103.08,0,0,0,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-09,101537.62,98647.21,-2890.41,48647.21,97.29,1,0,1,0.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-11,98647.21,106589.19,7941.98,56589.19,113.18,4,3,1,75.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-12,106589.19,105361.43,-1227.76,55361.43,110.72,3,2,1,66.7
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-13,105361.43,107199.17,1837.74,57199.17,114.4,2,1,1,50.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-16,107199.17,112214.86,5015.69,62214.86,124.43,1,1,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-17,112214.86,117243.58,5028.71,67243.57,134.49,2,2,0,100.0
+Preliminary (21 Traders),3,bot_03_chandelier_run_t46_l2200,Chandelier Runner Tgt46% Lock Rs2200,2026-11-18,117243.58,115083.15,-2160.42,65083.15,130.17,4,3,1,75.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-01,50000.0,52227.84,2227.84,2227.84,4.46,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-02,52227.84,52412.69,184.85,2412.69,4.83,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-03,52412.69,52017.72,-394.97,2017.72,4.04,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-04,52017.72,52212.51,194.78,2212.5,4.42,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-07,52212.51,51236.23,-976.27,1236.23,2.47,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-08,51236.23,50245.15,-991.08,245.15,0.49,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-09,50245.15,51855.87,1610.72,1855.87,3.71,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-10,51855.87,51985.65,129.77,1985.64,3.97,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-11,51985.65,51092.23,-893.42,1092.22,2.18,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-15,51092.23,52114.02,1021.79,2114.01,4.23,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-16,52114.02,51195.9,-918.12,1195.89,2.39,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-17,51195.9,52855.38,1659.48,2855.37,5.71,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-18,52855.38,52855.38,0.0,2855.37,5.71,0,0,0,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-21,52855.38,52925.74,70.36,2925.73,5.85,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-22,52925.74,53757.37,831.63,3757.36,7.51,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-23,53757.37,53410.05,-347.32,3410.04,6.82,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-24,53410.05,53473.71,63.66,3473.7,6.95,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-25,53473.71,53573.18,99.47,3573.17,7.15,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-28,53573.18,53776.33,203.15,3776.32,7.55,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-29,53776.33,53002.66,-773.67,3002.65,6.01,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-09-30,53002.66,51758.16,-1244.5,1758.15,3.52,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-01,51758.16,72208.34,20450.17,22208.32,44.42,2,2,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-05,72208.34,72722.21,513.88,22722.2,45.44,2,2,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-06,72722.21,74931.86,2209.64,24931.84,49.86,3,2,1,66.7
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-07,74931.86,71586.02,-3345.84,21586.0,43.17,3,1,2,33.3
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-08,71586.02,69952.88,-1633.14,19952.86,39.91,4,2,2,50.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-09,69952.88,75720.33,5767.45,25720.31,51.44,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-12,75720.33,81831.92,6111.59,31831.9,63.66,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-13,81831.92,89578.34,7746.42,39578.32,79.16,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-14,89578.34,83514.3,-6064.04,33514.28,67.03,2,0,2,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-15,83514.3,103668.62,20154.32,53668.6,107.34,2,2,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-16,103668.62,103668.62,0.0,53668.6,107.34,0,0,0,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-19,103668.62,105554.09,1885.48,55554.08,111.11,3,3,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-21,105554.09,113457.65,7903.56,63457.64,126.92,2,2,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-22,113457.65,108302.48,-5155.18,58302.46,116.6,3,1,2,33.3
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-23,108302.48,108040.25,-262.23,58040.23,116.08,3,1,2,33.3
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-26,108040.25,109437.38,1397.13,59437.36,118.87,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-27,109437.38,104768.91,-4668.47,54768.89,109.54,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-28,104768.91,110658.26,5889.35,60658.24,121.32,3,2,1,66.7
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-29,110658.26,110956.57,298.31,60956.55,121.91,4,2,2,50.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-10-30,110956.57,120346.49,9389.92,70346.47,140.69,4,4,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-02,120346.49,128080.05,7733.56,78080.03,156.16,3,3,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-03,128080.05,121323.15,-6756.91,71323.12,142.65,3,1,2,33.3
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-04,121323.15,121178.85,-144.3,71178.82,142.36,3,2,1,66.7
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-05,121178.85,130301.05,9122.2,80301.02,160.6,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-06,130301.05,131231.91,930.86,81231.88,162.46,3,2,1,66.7
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-08,131231.91,131231.91,0.0,81231.88,162.46,0,0,0,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-09,131231.91,125531.09,-5700.82,75531.06,151.06,1,0,1,0.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-11,125531.09,133473.07,7941.98,83473.04,166.95,4,3,1,75.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-12,133473.07,131751.43,-1721.65,81751.39,163.5,3,2,1,66.7
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-13,131751.43,141031.27,9279.84,91031.23,182.06,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-16,141031.27,148594.81,7563.54,98594.77,197.19,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-17,148594.81,157814.73,9219.91,107814.68,215.63,1,1,0,100.0
+Tournament 25 (29 Traders),1,bot_25_chand_4l_f14k_l2500_t70_tr52,Rung 25 — Chandelier 4L F14k L2500 T70%,2026-11-18,157814.73,153813.88,-4000.85,103813.83,207.63,4,3,1,75.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-01,50000.0,52227.84,2227.84,2227.84,4.46,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-02,52227.84,52412.69,184.85,2412.69,4.83,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-03,52412.69,52017.72,-394.97,2017.72,4.04,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-04,52017.72,52212.51,194.78,2212.5,4.42,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-07,52212.51,51236.23,-976.27,1236.23,2.47,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-08,51236.23,50245.15,-991.08,245.15,0.49,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-09,50245.15,51855.87,1610.72,1855.87,3.71,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-10,51855.87,51985.65,129.77,1985.64,3.97,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-11,51985.65,51092.23,-893.42,1092.22,2.18,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-15,51092.23,52114.02,1021.79,2114.01,4.23,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-16,52114.02,51195.9,-918.12,1195.89,2.39,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-17,51195.9,52855.38,1659.48,2855.37,5.71,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-18,52855.38,52855.38,0.0,2855.37,5.71,0,0,0,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-21,52855.38,52925.74,70.36,2925.73,5.85,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-22,52925.74,53757.37,831.63,3757.36,7.51,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-23,53757.37,53410.05,-347.32,3410.04,6.82,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-24,53410.05,53473.71,63.66,3473.7,6.95,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-25,53473.71,53573.18,99.47,3573.17,7.15,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-28,53573.18,53776.33,203.15,3776.32,7.55,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-29,53776.33,53002.66,-773.67,3002.65,6.01,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-09-30,53002.66,51758.16,-1244.5,1758.15,3.52,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-01,51758.16,72208.34,20450.17,22208.32,44.42,2,2,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-05,72208.34,72722.21,513.88,22722.2,45.44,2,2,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-06,72722.21,74931.86,2209.64,24931.84,49.86,3,2,1,66.7
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-07,74931.86,71586.02,-3345.84,21586.0,43.17,3,1,2,33.3
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-08,71586.02,69952.88,-1633.14,19952.86,39.91,4,2,2,50.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-09,69952.88,75720.33,5767.45,25720.31,51.44,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-12,75720.33,81831.92,6111.59,31831.9,63.66,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-13,81831.92,89578.34,7746.42,39578.32,79.16,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-14,89578.34,83514.3,-6064.04,33514.28,67.03,2,0,2,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-15,83514.3,103668.62,20154.32,53668.6,107.34,2,2,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-16,103668.62,103668.62,0.0,53668.6,107.34,0,0,0,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-19,103668.62,105554.09,1885.48,55554.08,111.11,3,3,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-21,105554.09,113457.65,7903.56,63457.64,126.92,2,2,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-22,113457.65,108302.48,-5155.18,58302.46,116.6,3,1,2,33.3
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-23,108302.48,108040.25,-262.23,58040.23,116.08,3,1,2,33.3
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-26,108040.25,109437.38,1397.13,59437.36,118.87,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-27,109437.38,104768.91,-4668.47,54768.89,109.54,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-28,104768.91,110658.26,5889.35,60658.24,121.32,3,2,1,66.7
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-29,110658.26,111033.77,375.5,61033.74,122.07,4,2,2,50.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-10-30,111033.77,120423.69,9389.92,70423.66,140.85,4,4,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-02,120423.69,128157.25,7733.56,78157.22,156.31,3,3,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-03,128157.25,121400.34,-6756.91,71400.31,142.8,3,1,2,33.3
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-04,121400.34,121256.05,-144.3,71256.01,142.51,3,2,1,66.7
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-05,121256.05,130378.25,9122.2,80378.21,160.76,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-06,130378.25,131309.11,930.86,81309.07,162.62,3,2,1,66.7
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-08,131309.11,131309.11,0.0,81309.07,162.62,0,0,0,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-09,131309.11,125608.29,-5700.82,75608.25,151.22,1,0,1,0.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-11,125608.29,129859.16,4250.88,79859.13,159.72,4,3,1,75.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-12,129859.16,128137.52,-1721.65,78137.48,156.27,3,2,1,66.7
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-13,128137.52,137417.36,9279.84,87417.32,174.83,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-16,137417.36,144980.9,7563.54,94980.86,189.96,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-17,144980.9,154200.82,9219.91,104200.77,208.4,1,1,0,100.0
+Tournament 25 (29 Traders),2,bot_24_chand_4l_f18k_l2500_t70_tr50,Rung 24 — Chandelier 4L F18k L2500 T70%,2026-11-18,154200.82,150199.97,-4000.85,100199.92,200.4,4,3,1,75.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-01,50000.0,52227.84,2227.84,2227.84,4.46,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-02,52227.84,52412.69,184.85,2412.69,4.83,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-03,52412.69,52017.72,-394.97,2017.72,4.04,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-04,52017.72,52212.51,194.78,2212.5,4.42,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-07,52212.51,51236.23,-976.27,1236.23,2.47,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-08,51236.23,50245.15,-991.08,245.15,0.49,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-09,50245.15,51855.87,1610.72,1855.87,3.71,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-10,51855.87,51985.65,129.77,1985.64,3.97,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-11,51985.65,51092.23,-893.42,1092.22,2.18,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-15,51092.23,52114.02,1021.79,2114.01,4.23,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-16,52114.02,51195.9,-918.12,1195.89,2.39,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-17,51195.9,52855.38,1659.48,2855.37,5.71,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-18,52855.38,52855.38,0.0,2855.37,5.71,0,0,0,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-21,52855.38,52925.74,70.36,2925.73,5.85,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-22,52925.74,53757.37,831.63,3757.36,7.51,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-23,53757.37,53410.05,-347.32,3410.04,6.82,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-24,53410.05,53473.71,63.66,3473.7,6.95,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-25,53473.71,53573.18,99.47,3573.17,7.15,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-28,53573.18,53776.33,203.15,3776.32,7.55,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-29,53776.33,53002.66,-773.67,3002.65,6.01,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-09-30,53002.66,51758.16,-1244.5,1758.15,3.52,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-01,51758.16,72208.34,20450.17,22208.32,44.42,2,2,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-05,72208.34,72722.21,513.88,22722.2,45.44,2,2,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-06,72722.21,74931.86,2209.64,24931.84,49.86,3,2,1,66.7
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-07,74931.86,71586.02,-3345.84,21586.0,43.17,3,1,2,33.3
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-08,71586.02,69952.88,-1633.14,19952.86,39.91,4,2,2,50.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-09,69952.88,75720.33,5767.45,25720.31,51.44,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-12,75720.33,82257.46,6537.14,32257.45,64.51,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-13,82257.46,90003.89,7746.42,40003.87,80.01,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-14,90003.89,83939.84,-6064.04,33939.83,67.88,2,0,2,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-15,83939.84,104094.16,20154.32,54094.15,108.19,2,2,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-16,104094.16,104094.16,0.0,54094.15,108.19,0,0,0,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-19,104094.16,105979.64,1885.48,55979.63,111.96,3,3,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-21,105979.64,113883.2,7903.56,63883.19,127.77,2,2,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-22,113883.2,108510.05,-5373.15,58510.04,117.02,3,1,2,33.3
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-23,108510.05,108247.82,-262.23,58247.81,116.5,3,1,2,33.3
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-26,108247.82,109644.96,1397.13,59644.94,119.29,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-27,109644.96,104976.49,-4668.47,54976.47,109.95,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-28,104976.49,110865.84,5889.35,60865.82,121.73,3,2,1,66.7
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-29,110865.84,104630.75,-6235.09,54630.73,109.26,4,1,3,25.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-10-30,104630.75,114020.67,9389.92,64020.65,128.04,4,4,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-02,114020.67,121639.6,7618.93,71639.58,143.28,3,3,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-03,121639.6,116116.77,-5522.83,66116.75,132.23,3,1,2,33.3
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-04,116116.77,114155.98,-1960.79,64155.96,128.31,3,2,1,66.7
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-05,114155.98,123278.18,9122.2,73278.16,146.56,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-06,123278.18,130742.84,7464.66,80742.82,161.49,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-08,130742.84,130742.84,0.0,80742.82,161.49,0,0,0,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-09,130742.84,125042.02,-5700.82,75042.0,150.08,1,0,1,0.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-11,125042.02,129292.89,4250.88,79292.88,158.59,4,3,1,75.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-12,129292.89,127571.25,-1721.65,77571.23,155.14,3,2,1,66.7
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-13,127571.25,136851.09,9279.84,86851.07,173.7,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-16,136851.09,141922.54,5071.45,91922.52,183.85,2,1,1,50.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-17,141922.54,151142.46,9219.91,101142.43,202.28,1,1,0,100.0
+Tournament 25 (29 Traders),3,bot_23_chand_4l_f18k_l2800_t70_tr45,Rung 23 — Chandelier 4L F18k L2800 T70%,2026-11-18,151142.46,146649.94,-4492.52,96649.91,193.3,4,3,1,75.0
