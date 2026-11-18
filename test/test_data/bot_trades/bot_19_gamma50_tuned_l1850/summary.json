@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_19_gamma50_tuned_l1850",
+  "bot_name": "Convex Gamma-50 Tuned Lock Rs1850",
+  "initial_wallet": 50000.0,
+  "equity": 82058.79,
+  "cash": 82058.79,
+  "net_pnl": 32058.79,
+  "return_pct": 64.12,
+  "closed_trades": 80,
+  "wins": 51,
+  "losses": 29,
+  "win_rate_pct": 63.75,
+  "profit_factor": 1.74,
+  "max_drawdown": 11663.69,
+  "observed_days": 54,
+  "active_days": 47,
+  "daily_coverage_pct": 87.04,
+  "avg_trades_per_day": 1.481,
+  "capital_halted": false
+}

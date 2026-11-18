@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_04_w51_l2000_t30",
+  "bot_name": "Rung 04 \u2014 WideRunner Boost L2000 T30%",
+  "initial_wallet": 50000.0,
+  "equity": 79783.57,
+  "cash": 79783.57,
+  "net_pnl": 29783.57,
+  "return_pct": 59.57,
+  "closed_trades": 96,
+  "wins": 51,
+  "losses": 45,
+  "win_rate_pct": 53.12,
+  "profit_factor": 1.384,
+  "max_drawdown": 20176.77,
+  "observed_days": 54,
+  "active_days": 53,
+  "daily_coverage_pct": 98.15,
+  "avg_trades_per_day": 1.778,
+  "capital_halted": false
+}

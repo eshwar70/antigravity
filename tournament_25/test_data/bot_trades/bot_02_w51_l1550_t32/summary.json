@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_02_w51_l1550_t32",
+  "bot_name": "Rung 02 \u2014 WideRunner Boost L1550 T32%",
+  "initial_wallet": 50000.0,
+  "equity": 73532.37,
+  "cash": 73532.37,
+  "net_pnl": 23532.37,
+  "return_pct": 47.06,
+  "closed_trades": 96,
+  "wins": 52,
+  "losses": 44,
+  "win_rate_pct": 54.17,
+  "profit_factor": 1.324,
+  "max_drawdown": 20176.77,
+  "observed_days": 54,
+  "active_days": 53,
+  "daily_coverage_pct": 98.15,
+  "avg_trades_per_day": 1.778,
+  "capital_halted": false
+}

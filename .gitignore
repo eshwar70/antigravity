@@ -4,6 +4,10 @@
 state.json
 nse_instruments.json.gz
 
+# Data Caches & Large Market Files
+market_cache/
+*.pkl
+
 # Python Bytecode & Cache
 __pycache__/
 *.py[cod]

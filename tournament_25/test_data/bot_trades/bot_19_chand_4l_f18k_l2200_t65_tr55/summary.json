@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_19_chand_4l_f18k_l2200_t65_tr55",
+  "bot_name": "Rung 19 \u2014 Chandelier 4L F18k L2200 T65%",
+  "initial_wallet": 50000.0,
+  "equity": 130675.7,
+  "cash": 130675.7,
+  "net_pnl": 80675.7,
+  "return_pct": 161.35,
+  "closed_trades": 91,
+  "wins": 61,
+  "losses": 30,
+  "win_rate_pct": 67.03,
+  "profit_factor": 2.147,
+  "max_drawdown": 16804.51,
+  "observed_days": 54,
+  "active_days": 51,
+  "daily_coverage_pct": 94.44,
+  "avg_trades_per_day": 1.685,
+  "capital_halted": false
+}

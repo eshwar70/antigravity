@@ -1,0 +1,3357 @@
+[
+  {
+    "rung": 1,
+    "bot_id": "bot_01_kaufman_flow_e32_l1950",
+    "bot_name": "Rung 01 \u2014 Kaufman Flow E32 Lock Rs1950",
+    "slug": "kaufman_flow_e32_l1950",
+    "family": "Efficiency Ratio Filter",
+    "description": "Dual-timeframe Kaufman efficiency (5m >= 0.32, 1m >= 0.28) with Rs 1950 daily profit lock.",
+    "net_pnl": 20424.42,
+    "return_pct": 40.85,
+    "step_gap": 3535.88,
+    "closed_trades": 83,
+    "wins": 51,
+    "losses": 32,
+    "win_rate_pct": 61.45,
+    "profit_factor": 1.418,
+    "max_drawdown": 13153.05,
+    "calmar": 1.553,
+    "sharpe": 2.913,
+    "active_days": 49,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.537,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 1950.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.38,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.05,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.035
+        ],
+        [
+          0.15,
+          0.09
+        ],
+        [
+          0.22,
+          0.15
+        ],
+        [
+          0.28,
+          0.215
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 55,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 643.41,
+      "2026-W37": -1082.33,
+      "2026-W38": -1082.38,
+      "2026-W39": -29.81,
+      "2026-W40": 4427.39,
+      "2026-W41": 2722.65,
+      "2026-W42": 6397.73,
+      "2026-W43": -1631.35,
+      "2026-W44": 1211.32,
+      "2026-W45": 5350.66,
+      "2026-W46": 1209.15,
+      "2026-W47": 2287.98
+    },
+    "monthly_pnl": {
+      "2026-09": -3713.29,
+      "2026-10": 15289.92,
+      "2026-11": 8847.79
+    }
+  },
+  {
+    "rung": 2,
+    "bot_id": "bot_02_w51_l1550_t32",
+    "bot_name": "Rung 02 \u2014 WideRunner Boost L1550 T32%",
+    "slug": "w51_l1550_t32",
+    "family": "Asymmetric WideRunner",
+    "description": "Asymmetric WideRunner with 2 lots, lock Rs 1550, target 32%, trail 5.0%.",
+    "net_pnl": 23532.37,
+    "return_pct": 47.06,
+    "step_gap": 3107.95,
+    "closed_trades": 96,
+    "wins": 52,
+    "losses": 44,
+    "win_rate_pct": 54.17,
+    "profit_factor": 1.324,
+    "max_drawdown": 20176.77,
+    "calmar": 1.166,
+    "sharpe": 2.649,
+    "active_days": 53,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.778,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 1550.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.32,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.05,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.035
+        ],
+        [
+          0.15,
+          0.09
+        ],
+        [
+          0.22,
+          0.15
+        ],
+        [
+          0.28,
+          0.215
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 55,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 1871.83,
+      "2026-W37": -3102.27,
+      "2026-W38": 520.94,
+      "2026-W39": 481.12,
+      "2026-W40": 4215.09,
+      "2026-W41": 9267.46,
+      "2026-W42": 2095.06,
+      "2026-W43": 5208.26,
+      "2026-W44": 2949.89,
+      "2026-W45": 5243.82,
+      "2026-W46": -10899.19,
+      "2026-W47": 5680.36
+    },
+    "monthly_pnl": {
+      "2026-09": -2147.6,
+      "2026-10": 25654.98,
+      "2026-11": 24.99
+    }
+  },
+  {
+    "rung": 3,
+    "bot_id": "bot_03_chand_2l_l1800_t32",
+    "bot_name": "Rung 03 \u2014 Chandelier 2L L1800 T32%",
+    "slug": "chand_2l_l1800_t32",
+    "family": "Chandelier Target Scaler",
+    "description": "Chandelier Target Scaler with 2 lots, lock Rs 1800, target 32%, trail 5.5%.",
+    "net_pnl": 26583.24,
+    "return_pct": 53.17,
+    "step_gap": 3050.87,
+    "closed_trades": 92,
+    "wins": 58,
+    "losses": 34,
+    "win_rate_pct": 63.04,
+    "profit_factor": 1.501,
+    "max_drawdown": 12785.57,
+    "calmar": 2.079,
+    "sharpe": 3.704,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.704,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 1800.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.32,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 3196.26,
+      "2026-W41": 2265.05,
+      "2026-W42": 5030.0,
+      "2026-W43": 330.18,
+      "2026-W44": 3445.81,
+      "2026-W45": 824.03,
+      "2026-W46": 4729.4,
+      "2026-W47": 3189.33
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 16082.32,
+      "2026-11": 8742.76
+    }
+  },
+  {
+    "rung": 4,
+    "bot_id": "bot_04_w51_l2000_t30",
+    "bot_name": "Rung 04 \u2014 WideRunner Boost L2000 T30%",
+    "slug": "w51_l2000_t30",
+    "family": "Asymmetric WideRunner",
+    "description": "Asymmetric WideRunner with 2 lots, lock Rs 2000, target 30%, trail 5.0%.",
+    "net_pnl": 29783.57,
+    "return_pct": 59.57,
+    "step_gap": 3200.33,
+    "closed_trades": 96,
+    "wins": 51,
+    "losses": 45,
+    "win_rate_pct": 53.12,
+    "profit_factor": 1.384,
+    "max_drawdown": 20176.77,
+    "calmar": 1.476,
+    "sharpe": 3.134,
+    "active_days": 53,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.778,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2000.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.3,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.05,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.035
+        ],
+        [
+          0.15,
+          0.09
+        ],
+        [
+          0.22,
+          0.15
+        ],
+        [
+          0.28,
+          0.215
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 55,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 1871.83,
+      "2026-W37": -3102.27,
+      "2026-W38": 520.94,
+      "2026-W39": 481.12,
+      "2026-W40": 4215.09,
+      "2026-W41": 10996.89,
+      "2026-W42": 10093.84,
+      "2026-W43": 3406.06,
+      "2026-W44": 1349.55,
+      "2026-W45": 8022.55,
+      "2026-W46": -11824.43,
+      "2026-W47": 3752.4
+    },
+    "monthly_pnl": {
+      "2026-09": -2147.6,
+      "2026-10": 31980.65,
+      "2026-11": -49.48
+    }
+  },
+  {
+    "rung": 5,
+    "bot_id": "bot_05_tight_l2300_t32",
+    "bot_name": "Rung 05 \u2014 Tight-Stop L2300 T32%",
+    "slug": "tight_l2300_t32",
+    "family": "Tight-Stop Asymmetric R:R",
+    "description": "Tight-Stop Asymmetric R:R with 2 lots, lock Rs 2300, target 32%, trail 4.5%.",
+    "net_pnl": 33891.51,
+    "return_pct": 67.78,
+    "step_gap": 4107.94,
+    "closed_trades": 98,
+    "wins": 53,
+    "losses": 45,
+    "win_rate_pct": 54.08,
+    "profit_factor": 1.559,
+    "max_drawdown": 20203.85,
+    "calmar": 1.677,
+    "sharpe": 3.435,
+    "active_days": 52,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.815,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2600.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2300.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.08,
+      "target_fraction": 0.32,
+      "breakeven_activation_fraction": 0.055,
+      "breakeven_lock_fraction": 0.025,
+      "trail_activation_fraction": 0.11,
+      "trail_fraction": 0.045,
+      "step_trail_levels": [
+        [
+          0.075,
+          0.035
+        ],
+        [
+          0.135,
+          0.085
+        ],
+        [
+          0.21,
+          0.15
+        ],
+        [
+          0.29,
+          0.225
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 55,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 1772.96,
+      "2026-W37": -3156.96,
+      "2026-W38": 739.29,
+      "2026-W39": 735.61,
+      "2026-W40": 1714.97,
+      "2026-W41": 2659.62,
+      "2026-W42": 13978.08,
+      "2026-W43": 6986.48,
+      "2026-W44": 8478.07,
+      "2026-W45": -9556.69,
+      "2026-W46": -3220.6,
+      "2026-W47": 12760.68
+    },
+    "monthly_pnl": {
+      "2026-09": -3981.26,
+      "2026-10": 37889.38,
+      "2026-11": -16.61
+    }
+  },
+  {
+    "rung": 6,
+    "bot_id": "bot_06_chand_2l_l1400_t30",
+    "bot_name": "Rung 06 \u2014 Chandelier 2L L1400 T30%",
+    "slug": "chand_2l_l1400_t30",
+    "family": "Chandelier Target Scaler",
+    "description": "Chandelier Target Scaler with 2 lots, lock Rs 1400, target 30%, trail 5.5%.",
+    "net_pnl": 37301.61,
+    "return_pct": 74.6,
+    "step_gap": 3410.1,
+    "closed_trades": 89,
+    "wins": 59,
+    "losses": 30,
+    "win_rate_pct": 66.29,
+    "profit_factor": 1.767,
+    "max_drawdown": 12076.19,
+    "calmar": 3.089,
+    "sharpe": 4.675,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.648,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 1400.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.3,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 3196.26,
+      "2026-W41": 2564.19,
+      "2026-W42": 6346.86,
+      "2026-W43": 2649.89,
+      "2026-W44": 3035.83,
+      "2026-W45": 3555.77,
+      "2026-W46": 4954.4,
+      "2026-W47": 7425.23
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 19608.05,
+      "2026-11": 15935.4
+    }
+  },
+  {
+    "rung": 7,
+    "bot_id": "bot_07_chand_2l_l2800_t28",
+    "bot_name": "Rung 07 \u2014 Chandelier 2L L2800 T28%",
+    "slug": "chand_2l_l2800_t28",
+    "family": "Chandelier Target Scaler",
+    "description": "Chandelier Target Scaler with 2 lots, lock Rs 2800, target 28%, trail 5.5%.",
+    "net_pnl": 41526.67,
+    "return_pct": 83.05,
+    "step_gap": 4225.06,
+    "closed_trades": 98,
+    "wins": 63,
+    "losses": 35,
+    "win_rate_pct": 64.29,
+    "profit_factor": 1.653,
+    "max_drawdown": 12421.24,
+    "calmar": 3.343,
+    "sharpe": 4.654,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.815,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2800.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.28,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 3196.26,
+      "2026-W41": 1900.48,
+      "2026-W42": 11385.11,
+      "2026-W43": 2431.92,
+      "2026-W44": 5595.17,
+      "2026-W45": 8012.93,
+      "2026-W46": 1260.57,
+      "2026-W47": 4171.06
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 26323.96,
+      "2026-11": 13444.56
+    }
+  },
+  {
+    "rung": 8,
+    "bot_id": "bot_08_bb_keltner_lock_2400",
+    "bot_name": "Rung 08 \u2014 Bollinger-Keltner Lock Rs2400",
+    "slug": "bb_keltner_lock_2400",
+    "family": "Volatility Squeeze Breakout",
+    "description": "Volatility band breakout with daily lock at Rs 2400.",
+    "net_pnl": 44857.11,
+    "return_pct": 89.71,
+    "step_gap": 3330.44,
+    "closed_trades": 98,
+    "wins": 58,
+    "losses": 40,
+    "win_rate_pct": 59.18,
+    "profit_factor": 1.569,
+    "max_drawdown": 18077.6,
+    "calmar": 2.481,
+    "sharpe": 3.962,
+    "active_days": 52,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.815,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2400.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.38,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.05,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.035
+        ],
+        [
+          0.15,
+          0.09
+        ],
+        [
+          0.22,
+          0.15
+        ],
+        [
+          0.28,
+          0.215
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 55,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2008.42,
+      "2026-W37": -3332.03,
+      "2026-W38": 445.31,
+      "2026-W39": 184.79,
+      "2026-W40": 2776.62,
+      "2026-W41": 10935.61,
+      "2026-W42": 8703.37,
+      "2026-W43": 4727.79,
+      "2026-W44": 13943.86,
+      "2026-W45": 3208.62,
+      "2026-W46": -6383.93,
+      "2026-W47": 7638.67
+    },
+    "monthly_pnl": {
+      "2026-09": -4506.46,
+      "2026-10": 44900.2,
+      "2026-11": 4463.36
+    }
+  },
+  {
+    "rung": 9,
+    "bot_id": "bot_09_chand_2l_l2600_t28",
+    "bot_name": "Rung 09 \u2014 Chandelier 2L L2600 T28%",
+    "slug": "chand_2l_l2600_t28",
+    "family": "Chandelier Target Scaler",
+    "description": "Chandelier Target Scaler with 2 lots, lock Rs 2600, target 28%, trail 5.5%.",
+    "net_pnl": 48001.77,
+    "return_pct": 96.0,
+    "step_gap": 3144.66,
+    "closed_trades": 96,
+    "wins": 63,
+    "losses": 33,
+    "win_rate_pct": 65.62,
+    "profit_factor": 1.84,
+    "max_drawdown": 12421.24,
+    "calmar": 3.864,
+    "sharpe": 5.077,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.778,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2600.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.28,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 3196.26,
+      "2026-W41": 1900.48,
+      "2026-W42": 11385.11,
+      "2026-W43": 2431.92,
+      "2026-W44": 5595.17,
+      "2026-W45": 8012.93,
+      "2026-W46": 4022.75,
+      "2026-W47": 7883.98
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 26323.96,
+      "2026-11": 19919.66
+    }
+  },
+  {
+    "rung": 10,
+    "bot_id": "bot_10_chand_2l_l2800_t32",
+    "bot_name": "Rung 10 \u2014 Chandelier 2L L2800 T32%",
+    "slug": "chand_2l_l2800_t32",
+    "family": "Chandelier Target Scaler",
+    "description": "Chandelier Target Scaler with 2 lots, lock Rs 2800, target 32%, trail 5.5%.",
+    "net_pnl": 51229.29,
+    "return_pct": 102.46,
+    "step_gap": 3227.52,
+    "closed_trades": 102,
+    "wins": 65,
+    "losses": 37,
+    "win_rate_pct": 63.73,
+    "profit_factor": 1.778,
+    "max_drawdown": 12421.24,
+    "calmar": 4.124,
+    "sharpe": 4.917,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.889,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2800.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.32,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 3196.26,
+      "2026-W41": 2265.05,
+      "2026-W42": 11949.48,
+      "2026-W43": 2431.92,
+      "2026-W44": 9567.17,
+      "2026-W45": 10527.26,
+      "2026-W46": 5236.0,
+      "2026-W47": 2483.0
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 31224.9,
+      "2026-11": 18246.26
+    }
+  },
+  {
+    "rung": 11,
+    "bot_id": "bot_11_chand_2l_l2800_t42",
+    "bot_name": "Rung 11 \u2014 Chandelier 2L L2800 T42%",
+    "slug": "chand_2l_l2800_t42",
+    "family": "Chandelier Target Scaler",
+    "description": "Chandelier Target Scaler with 2 lots, lock Rs 2800, target 42%, trail 5.5%.",
+    "net_pnl": 55023.24,
+    "return_pct": 110.05,
+    "step_gap": 3793.95,
+    "closed_trades": 103,
+    "wins": 65,
+    "losses": 38,
+    "win_rate_pct": 63.11,
+    "profit_factor": 1.761,
+    "max_drawdown": 16609.21,
+    "calmar": 3.313,
+    "sharpe": 4.924,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.907,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2800.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.42,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 4774.55,
+      "2026-W41": 6372.29,
+      "2026-W42": 13240.39,
+      "2026-W43": 3378.8,
+      "2026-W44": 9625.76,
+      "2026-W45": 6339.29,
+      "2026-W46": 5236.0,
+      "2026-W47": 2483.0
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 39206.81,
+      "2026-11": 14058.29
+    }
+  },
+  {
+    "rung": 12,
+    "bot_id": "bot_12_chand_2l_l2800_t48",
+    "bot_name": "Rung 12 \u2014 Chandelier 2L L2800 T48%",
+    "slug": "chand_2l_l2800_t48",
+    "family": "Chandelier Target Scaler",
+    "description": "Chandelier Target Scaler with 2 lots, lock Rs 2800, target 48%, trail 5.5%.",
+    "net_pnl": 58236.36,
+    "return_pct": 116.47,
+    "step_gap": 3213.12,
+    "closed_trades": 103,
+    "wins": 66,
+    "losses": 37,
+    "win_rate_pct": 64.08,
+    "profit_factor": 1.847,
+    "max_drawdown": 16609.21,
+    "calmar": 3.506,
+    "sharpe": 5.142,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.907,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2800.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.48,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 5251.99,
+      "2026-W41": 6372.29,
+      "2026-W42": 14479.41,
+      "2026-W43": 3378.8,
+      "2026-W44": 11122.41,
+      "2026-W45": 6339.29,
+      "2026-W46": 5236.0,
+      "2026-W47": 2483.0
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 42419.92,
+      "2026-11": 14058.29
+    }
+  },
+  {
+    "rung": 13,
+    "bot_id": "bot_13_chand_2l_l1400_t40",
+    "bot_name": "Rung 13 \u2014 Chandelier 2L L1400 T40%",
+    "slug": "chand_2l_l1400_t40",
+    "family": "Chandelier Target Scaler",
+    "description": "Chandelier Target Scaler with 2 lots, lock Rs 1400, target 40%, trail 5.5%.",
+    "net_pnl": 61291.53,
+    "return_pct": 122.58,
+    "step_gap": 3055.17,
+    "closed_trades": 87,
+    "wins": 60,
+    "losses": 27,
+    "win_rate_pct": 68.97,
+    "profit_factor": 2.247,
+    "max_drawdown": 12421.24,
+    "calmar": 4.934,
+    "sharpe": 6.106,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.611,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 1400.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.4,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 4774.55,
+      "2026-W41": 8820.84,
+      "2026-W42": 5030.0,
+      "2026-W43": 2431.92,
+      "2026-W44": 14189.35,
+      "2026-W45": 7048.31,
+      "2026-W46": 7998.18,
+      "2026-W47": 7425.23
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 37061.68,
+      "2026-11": 22471.72
+    }
+  },
+  {
+    "rung": 14,
+    "bot_id": "bot_14_chand_2l_l2000_t38",
+    "bot_name": "Rung 14 \u2014 Chandelier 2L L2000 T38%",
+    "slug": "chand_2l_l2000_t38",
+    "family": "Chandelier Target Scaler",
+    "description": "Chandelier Target Scaler with 2 lots, lock Rs 2000, target 38%, trail 5.5%.",
+    "net_pnl": 64314.88,
+    "return_pct": 128.63,
+    "step_gap": 3023.35,
+    "closed_trades": 93,
+    "wins": 61,
+    "losses": 32,
+    "win_rate_pct": 65.59,
+    "profit_factor": 2.119,
+    "max_drawdown": 14439.32,
+    "calmar": 4.454,
+    "sharpe": 5.564,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.722,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 30000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2000.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 2,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.38,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 4774.55,
+      "2026-W41": 8372.88,
+      "2026-W42": 13454.32,
+      "2026-W43": 3378.8,
+      "2026-W44": 8289.44,
+      "2026-W45": 7048.31,
+      "2026-W46": 7998.18,
+      "2026-W47": 7425.23
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 40085.01,
+      "2026-11": 22471.72
+    }
+  },
+  {
+    "rung": 15,
+    "bot_id": "bot_15_chand_4l_f18k_l3500_t65_tr50",
+    "bot_name": "Rung 15 \u2014 Chandelier 4L F18k L3500 T65%",
+    "slug": "chand_4l_f18k_l3500_t65_tr50",
+    "family": "Chandelier Compounding 4L",
+    "description": "Chandelier Compounding 4L with 4 lots, lock Rs 3500, target 65%, trail 5.0%.",
+    "net_pnl": 67348.75,
+    "return_pct": 134.7,
+    "step_gap": 3033.87,
+    "closed_trades": 99,
+    "wins": 63,
+    "losses": 36,
+    "win_rate_pct": 63.64,
+    "profit_factor": 1.691,
+    "max_drawdown": 20093.54,
+    "calmar": 3.352,
+    "sharpe": 4.275,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.833,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 18000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 3000.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 3500.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 4,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.65,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.05,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 15814.61,
+      "2026-W41": 3511.99,
+      "2026-W42": 27948.29,
+      "2026-W43": 4371.63,
+      "2026-W44": 4198.57,
+      "2026-W45": 3809.21,
+      "2026-W46": 1853.22,
+      "2026-W47": 2268.04
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 57660.11,
+      "2026-11": 7930.47
+    }
+  },
+  {
+    "rung": 16,
+    "bot_id": "bot_16_chand_4l_f18k_l3200_t85_tr50",
+    "bot_name": "Rung 16 \u2014 Chandelier 4L F18k L3200 T85%",
+    "slug": "chand_4l_f18k_l3200_t85_tr50",
+    "family": "Chandelier Compounding 4L",
+    "description": "Chandelier Compounding 4L with 4 lots, lock Rs 3200, target 85%, trail 5.0%.",
+    "net_pnl": 70388.53,
+    "return_pct": 140.78,
+    "step_gap": 3039.78,
+    "closed_trades": 98,
+    "wins": 63,
+    "losses": 35,
+    "win_rate_pct": 64.29,
+    "profit_factor": 1.797,
+    "max_drawdown": 20093.54,
+    "calmar": 3.503,
+    "sharpe": 4.377,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.815,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 18000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 3000.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 3200.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 4,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.85,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.05,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 15382.57,
+      "2026-W41": 1808.14,
+      "2026-W42": 27948.29,
+      "2026-W43": 4371.63,
+      "2026-W44": 4151.6,
+      "2026-W45": 4233.85,
+      "2026-W46": 1853.22,
+      "2026-W47": 7066.05
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 55477.25,
+      "2026-11": 13153.12
+    }
+  },
+  {
+    "rung": 17,
+    "bot_id": "bot_17_chand_4l_f18k_l3000_t85_tr55",
+    "bot_name": "Rung 17 \u2014 Chandelier 4L F18k L3000 T85%",
+    "slug": "chand_4l_f18k_l3000_t85_tr55",
+    "family": "Chandelier Compounding 4L",
+    "description": "Chandelier Compounding 4L with 4 lots, lock Rs 3000, target 85%, trail 5.5%.",
+    "net_pnl": 74442.42,
+    "return_pct": 148.88,
+    "step_gap": 4053.89,
+    "closed_trades": 97,
+    "wins": 63,
+    "losses": 34,
+    "win_rate_pct": 64.95,
+    "profit_factor": 1.848,
+    "max_drawdown": 20093.54,
+    "calmar": 3.705,
+    "sharpe": 4.496,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.796,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 18000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 3000.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 3000.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 4,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.85,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 15382.57,
+      "2026-W41": 3331.29,
+      "2026-W42": 27948.29,
+      "2026-W43": 4371.63,
+      "2026-W44": 2094.83,
+      "2026-W45": 2417.35,
+      "2026-W46": 10563.13,
+      "2026-W47": 4760.13
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 54943.63,
+      "2026-11": 17740.61
+    }
+  },
+  {
+    "rung": 18,
+    "bot_id": "bot_18_chand_3l_f20k_l3000_t55_tr55",
+    "bot_name": "Rung 18 \u2014 Chandelier 3L F20k L3000 T55%",
+    "slug": "chand_3l_f20k_l3000_t55_tr55",
+    "family": "Chandelier Compounding 3L",
+    "description": "Chandelier Compounding 3L with 3 lots, lock Rs 3000, target 55%, trail 5.5%.",
+    "net_pnl": 77443.68,
+    "return_pct": 154.89,
+    "step_gap": 3001.26,
+    "closed_trades": 96,
+    "wins": 63,
+    "losses": 33,
+    "win_rate_pct": 65.62,
+    "profit_factor": 1.964,
+    "max_drawdown": 20614.18,
+    "calmar": 3.757,
+    "sharpe": 4.62,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.778,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 20000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 3000.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 3,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.55,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 12432.28,
+      "2026-W41": 3004.69,
+      "2026-W42": 31375.37,
+      "2026-W43": 4450.27,
+      "2026-W44": 173.99,
+      "2026-W45": -235.23,
+      "2026-W46": 10563.13,
+      "2026-W47": 12105.98
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 53251.62,
+      "2026-11": 22433.88
+    }
+  },
+  {
+    "rung": 19,
+    "bot_id": "bot_19_chand_4l_f18k_l2200_t65_tr55",
+    "bot_name": "Rung 19 \u2014 Chandelier 4L F18k L2200 T65%",
+    "slug": "chand_4l_f18k_l2200_t65_tr55",
+    "family": "Chandelier Compounding 4L",
+    "description": "Chandelier Compounding 4L with 4 lots, lock Rs 2200, target 65%, trail 5.5%.",
+    "net_pnl": 80675.7,
+    "return_pct": 161.35,
+    "step_gap": 3232.02,
+    "closed_trades": 91,
+    "wins": 61,
+    "losses": 30,
+    "win_rate_pct": 67.03,
+    "profit_factor": 2.147,
+    "max_drawdown": 16804.51,
+    "calmar": 4.801,
+    "sharpe": 5.148,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.685,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 18000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 3000.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2200.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 4,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.65,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 15814.61,
+      "2026-W41": 6282.57,
+      "2026-W42": 11893.37,
+      "2026-W43": 3028.8,
+      "2026-W44": 13608.71,
+      "2026-W45": 6320.76,
+      "2026-W46": 10563.13,
+      "2026-W47": 9590.6
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 52443.08,
+      "2026-11": 26474.49
+    }
+  },
+  {
+    "rung": 20,
+    "bot_id": "bot_20_chand_3l_f20k_l2800_t70_tr55",
+    "bot_name": "Rung 20 \u2014 Chandelier 3L F20k L2800 T70%",
+    "slug": "chand_3l_f20k_l2800_t70_tr55",
+    "family": "Chandelier Compounding 3L",
+    "description": "Chandelier Compounding 3L with 3 lots, lock Rs 2800, target 70%, trail 5.5%.",
+    "net_pnl": 85763.53,
+    "return_pct": 171.53,
+    "step_gap": 5087.83,
+    "closed_trades": 96,
+    "wins": 63,
+    "losses": 33,
+    "win_rate_pct": 65.62,
+    "profit_factor": 2.014,
+    "max_drawdown": 22658.08,
+    "calmar": 3.785,
+    "sharpe": 4.699,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.778,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 20000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2800.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 3,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.7,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 18635.15,
+      "2026-W41": 5035.14,
+      "2026-W42": 27948.29,
+      "2026-W43": 4232.3,
+      "2026-W44": 3791.04,
+      "2026-W45": -120.68,
+      "2026-W46": 10563.13,
+      "2026-W47": 12105.98
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 61456.94,
+      "2026-11": 22548.43
+    }
+  },
+  {
+    "rung": 21,
+    "bot_id": "bot_21_chand_3l_f20k_l2800_t70_tr52",
+    "bot_name": "Rung 21 \u2014 Chandelier 3L F20k L2800 T70%",
+    "slug": "chand_3l_f20k_l2800_t70_tr52",
+    "family": "Chandelier Compounding 3L",
+    "description": "Chandelier Compounding 3L with 3 lots, lock Rs 2800, target 70%, trail 5.2%.",
+    "net_pnl": 89486.5,
+    "return_pct": 178.97,
+    "step_gap": 3722.97,
+    "closed_trades": 96,
+    "wins": 63,
+    "losses": 33,
+    "win_rate_pct": 65.62,
+    "profit_factor": 2.031,
+    "max_drawdown": 19316.67,
+    "calmar": 4.633,
+    "sharpe": 4.83,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.778,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 20000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2800.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 3,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.7,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.052,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 18635.15,
+      "2026-W41": 3511.99,
+      "2026-W42": 27948.29,
+      "2026-W43": 4450.27,
+      "2026-W44": 11191.3,
+      "2026-W45": 10243.58,
+      "2026-W46": 3356.12,
+      "2026-W47": 6576.6
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 67552.02,
+      "2026-11": 20176.3
+    }
+  },
+  {
+    "rung": 22,
+    "bot_id": "bot_22_chand_3l_f20k_l2675_t70_tr55",
+    "bot_name": "Rung 22 \u2014 chand_3l_f20k_l2675_t70_tr55",
+    "slug": "chand_3l_f20k_l2675_t70_tr55",
+    "family": "Chandelier Compounding 3L",
+    "description": "3-lot compounding runner with floor Rs 20k, lock Rs 2675, target 70%, trail 5.5%.",
+    "net_pnl": 92736.72,
+    "return_pct": 185.47,
+    "step_gap": 3250.22,
+    "closed_trades": 95,
+    "wins": 63,
+    "losses": 32,
+    "win_rate_pct": 66.32,
+    "profit_factor": 2.119,
+    "max_drawdown": 19534.64,
+    "calmar": 4.747,
+    "sharpe": 4.922,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.759,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 20000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 2800.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2675.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 3,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.7,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.055,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 18635.15,
+      "2026-W41": 5035.14,
+      "2026-W42": 27948.29,
+      "2026-W43": 4232.3,
+      "2026-W44": 9671.4,
+      "2026-W45": 10243.58,
+      "2026-W46": 6821.07,
+      "2026-W47": 6576.6
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 67337.3,
+      "2026-11": 23641.25
+    }
+  },
+  {
+    "rung": 23,
+    "bot_id": "bot_23_chand_4l_f18k_l2800_t70_tr45",
+    "bot_name": "Rung 23 \u2014 Chandelier 4L F18k L2800 T70%",
+    "slug": "chand_4l_f18k_l2800_t70_tr45",
+    "family": "Chandelier Compounding 4L",
+    "description": "Chandelier Compounding 4L with 4 lots, lock Rs 2800, target 70%, trail 4.5%.",
+    "net_pnl": 96649.94,
+    "return_pct": 193.3,
+    "step_gap": 3913.22,
+    "closed_trades": 92,
+    "wins": 60,
+    "losses": 32,
+    "win_rate_pct": 65.22,
+    "profit_factor": 2.165,
+    "max_drawdown": 19613.28,
+    "calmar": 4.928,
+    "sharpe": 4.926,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.704,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 18000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 3000.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2800.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 4,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.7,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.045,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 18635.15,
+      "2026-W41": 3511.99,
+      "2026-W42": 28373.84,
+      "2026-W43": 4153.66,
+      "2026-W44": 5772.84,
+      "2026-W45": 16722.17,
+      "2026-W46": 6108.25,
+      "2026-W47": 9798.84
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 62262.5,
+      "2026-11": 32629.26
+    }
+  },
+  {
+    "rung": 24,
+    "bot_id": "bot_24_chand_4l_f18k_l2500_t70_tr50",
+    "bot_name": "Rung 24 \u2014 Chandelier 4L F18k L2500 T70%",
+    "slug": "chand_4l_f18k_l2500_t70_tr50",
+    "family": "Chandelier Compounding 4L",
+    "description": "Chandelier Compounding 4L with 4 lots, lock Rs 2500, target 70%, trail 5.0%.",
+    "net_pnl": 100199.97,
+    "return_pct": 200.4,
+    "step_gap": 3550.03,
+    "closed_trades": 93,
+    "wins": 62,
+    "losses": 31,
+    "win_rate_pct": 66.67,
+    "profit_factor": 2.195,
+    "max_drawdown": 19395.31,
+    "calmar": 5.166,
+    "sharpe": 5.084,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.722,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 18000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 3000.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2500.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 4,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.7,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.05,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 18635.15,
+      "2026-W41": 3511.99,
+      "2026-W42": 27948.29,
+      "2026-W43": 4371.63,
+      "2026-W44": 12383.43,
+      "2026-W45": 10885.41,
+      "2026-W46": 6108.25,
+      "2026-W47": 12782.6
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 68665.51,
+      "2026-11": 29776.26
+    }
+  },
+  {
+    "rung": 25,
+    "bot_id": "bot_25_chand_4l_f14k_l2500_t70_tr52",
+    "bot_name": "Rung 25 \u2014 Chandelier 4L F14k L2500 T70%",
+    "slug": "chand_4l_f14k_l2500_t70_tr52",
+    "family": "Chandelier Compounding 4L",
+    "description": "Chandelier Compounding 4L with floor Rs 14000, lock Rs 2500, target 70%, trail 5.2%.",
+    "net_pnl": 103813.88,
+    "return_pct": 207.63,
+    "step_gap": 3613.91,
+    "closed_trades": 93,
+    "wins": 62,
+    "losses": 31,
+    "win_rate_pct": 66.67,
+    "profit_factor": 2.238,
+    "max_drawdown": 19395.31,
+    "calmar": 5.353,
+    "sharpe": 5.177,
+    "active_days": 51,
+    "observed_days": 54,
+    "avg_trades_per_day": 1.722,
+    "config": {
+      "initial_wallet": 50000.0,
+      "capital_floor": 14000.0,
+      "safety_buffer": 2000.0,
+      "planned_risk": 3000.0,
+      "daily_loss_limit": 4000.0,
+      "daily_profit_lock": 2500.0,
+      "dynamic_risk_scaling": true,
+      "max_lots": 4,
+      "loss_streak_single_lot": true,
+      "loss_streak_lot_cap": 1,
+      "target_delta": 0.6,
+      "delta_min": 0.4,
+      "delta_max": 0.68,
+      "max_trades_day": 4,
+      "max_loss_streak": 2,
+      "stop_fraction": 0.1,
+      "target_fraction": 0.7,
+      "breakeven_activation_fraction": 0.065,
+      "breakeven_lock_fraction": 0.028,
+      "trail_activation_fraction": 0.13,
+      "trail_fraction": 0.052,
+      "step_trail_levels": [
+        [
+          0.085,
+          0.038
+        ],
+        [
+          0.15,
+          0.095
+        ],
+        [
+          0.23,
+          0.165
+        ],
+        [
+          0.32,
+          0.25
+        ],
+        [
+          0.42,
+          0.34
+        ]
+      ],
+      "entry_start_clock": "09:20",
+      "entry_end_clock": "14:00",
+      "force_exit_clock": "15:15",
+      "cooldown_minutes": 5,
+      "direction_cooldown_minutes": 15,
+      "max_hold_minutes": 65,
+      "max_premium_loss_fraction": 0.48,
+      "vix_min": 14.0,
+      "vix_max": 35.0,
+      "early_stall_exit": false,
+      "early_stall_max_vix": 14.0,
+      "stall_minutes": 11.0,
+      "low_vix_regime": {
+        "enabled": true,
+        "vix_min": 10.0,
+        "max_lots": 1,
+        "target_delta": 0.65,
+        "delta_max": 0.76,
+        "entry_end_clock": "13:30",
+        "max_trades_day": 1,
+        "max_hold_minutes": 35,
+        "stop_fraction": 0.075,
+        "target_fraction": 0.145,
+        "breakeven_activation_fraction": 0.045,
+        "breakeven_lock_fraction": 0.025,
+        "trail_activation_fraction": 0.065,
+        "trail_fraction": 0.028,
+        "max_premium_loss_fraction": 0.45,
+        "early_stall_exit": true,
+        "stall_minutes": 11.0,
+        "step_trail_levels": [
+          [
+            0.085,
+            0.035
+          ],
+          [
+            0.15,
+            0.09
+          ],
+          [
+            0.22,
+            0.15
+          ],
+          [
+            0.28,
+            0.215
+          ]
+        ]
+      }
+    },
+    "weekly_pnl": {
+      "2026-W36": 2212.5,
+      "2026-W37": -1120.28,
+      "2026-W38": 1763.15,
+      "2026-W39": 717.8,
+      "2026-W40": 18635.15,
+      "2026-W41": 3511.99,
+      "2026-W42": 27948.29,
+      "2026-W43": 4371.63,
+      "2026-W44": 12306.24,
+      "2026-W45": 10885.41,
+      "2026-W46": 9799.35,
+      "2026-W47": 12782.6
+    },
+    "monthly_pnl": {
+      "2026-09": 1758.15,
+      "2026-10": 68588.32,
+      "2026-11": 33467.36
+    }
+  }
+]

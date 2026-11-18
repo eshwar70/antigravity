@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_22_chand_3l_f20k_l2675_t70_tr55",
+  "bot_name": "Rung 22 \u2014 chand_3l_f20k_l2675_t70_tr55",
+  "initial_wallet": 50000.0,
+  "equity": 142736.72,
+  "cash": 142736.72,
+  "net_pnl": 92736.72,
+  "return_pct": 185.47,
+  "closed_trades": 95,
+  "wins": 63,
+  "losses": 32,
+  "win_rate_pct": 66.32,
+  "profit_factor": 2.119,
+  "max_drawdown": 19534.64,
+  "observed_days": 54,
+  "active_days": 51,
+  "daily_coverage_pct": 94.44,
+  "avg_trades_per_day": 1.759,
+  "capital_halted": false
+}

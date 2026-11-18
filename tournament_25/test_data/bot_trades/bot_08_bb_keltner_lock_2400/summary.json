@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_08_bb_keltner_lock_2400",
+  "bot_name": "Rung 08 \u2014 Bollinger-Keltner Lock Rs2400",
+  "initial_wallet": 50000.0,
+  "equity": 94857.11,
+  "cash": 94857.11,
+  "net_pnl": 44857.11,
+  "return_pct": 89.71,
+  "closed_trades": 98,
+  "wins": 58,
+  "losses": 40,
+  "win_rate_pct": 59.18,
+  "profit_factor": 1.569,
+  "max_drawdown": 18077.6,
+  "observed_days": 54,
+  "active_days": 52,
+  "daily_coverage_pct": 96.3,
+  "avg_trades_per_day": 1.815,
+  "capital_halted": false
+}

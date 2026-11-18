@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_06_chand_2l_l1400_t30",
+  "bot_name": "Rung 06 \u2014 Chandelier 2L L1400 T30%",
+  "initial_wallet": 50000.0,
+  "equity": 87301.61,
+  "cash": 87301.61,
+  "net_pnl": 37301.61,
+  "return_pct": 74.6,
+  "closed_trades": 89,
+  "wins": 59,
+  "losses": 30,
+  "win_rate_pct": 66.29,
+  "profit_factor": 1.767,
+  "max_drawdown": 12076.19,
+  "observed_days": 54,
+  "active_days": 51,
+  "daily_coverage_pct": 94.44,
+  "avg_trades_per_day": 1.648,
+  "capital_halted": false
+}

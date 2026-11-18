@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_16_tight_stop_lock_2300",
+  "bot_name": "Asymmetric Tight-Stop Lock Rs2300",
+  "initial_wallet": 50000.0,
+  "equity": 85720.2,
+  "cash": 85720.2,
+  "net_pnl": 35720.2,
+  "return_pct": 71.44,
+  "closed_trades": 98,
+  "wins": 53,
+  "losses": 45,
+  "win_rate_pct": 54.08,
+  "profit_factor": 1.589,
+  "max_drawdown": 20203.85,
+  "observed_days": 54,
+  "active_days": 52,
+  "daily_coverage_pct": 96.3,
+  "avg_trades_per_day": 1.815,
+  "capital_halted": false
+}

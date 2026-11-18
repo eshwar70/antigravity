@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_15_bb_keltner_lock_2500",
+  "bot_name": "Bollinger-Keltner Lock Rs2500",
+  "initial_wallet": 50000.0,
+  "equity": 93673.52,
+  "cash": 93673.52,
+  "net_pnl": 43673.52,
+  "return_pct": 87.35,
+  "closed_trades": 100,
+  "wins": 59,
+  "losses": 41,
+  "win_rate_pct": 59.0,
+  "profit_factor": 1.533,
+  "max_drawdown": 18077.6,
+  "observed_days": 54,
+  "active_days": 52,
+  "daily_coverage_pct": 96.3,
+  "avg_trades_per_day": 1.852,
+  "capital_halted": false
+}

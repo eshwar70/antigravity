@@ -1,0 +1,20 @@
+{
+  "bot_id": "bot_01_kaufman_flow_e32_l1950",
+  "bot_name": "Rung 01 \u2014 Kaufman Flow E32 Lock Rs1950",
+  "initial_wallet": 50000.0,
+  "equity": 70424.42,
+  "cash": 70424.42,
+  "net_pnl": 20424.42,
+  "return_pct": 40.85,
+  "closed_trades": 83,
+  "wins": 51,
+  "losses": 32,
+  "win_rate_pct": 61.45,
+  "profit_factor": 1.418,
+  "max_drawdown": 13153.05,
+  "observed_days": 54,
+  "active_days": 49,
+  "daily_coverage_pct": 90.74,
+  "avg_trades_per_day": 1.537,
+  "capital_halted": false
+}
